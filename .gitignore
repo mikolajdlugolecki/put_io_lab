@@ -10,3 +10,6 @@ target/
 # Pliki systemowe
 .DS_Store
 Thumbs.db
+
+# Zmienne środowiskowe
+.env
